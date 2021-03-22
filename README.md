@@ -1,6 +1,3 @@
-# 
-
-
 <p align="center">
 
  <h2 align="center">Guma Notes</h2>
@@ -14,9 +11,7 @@
 
  <br>
 Guma is a flutter program capable of saving notes and executing blocks of code.</h4>
- <br>
 </p>
-
 
 
 ### Download and Open Guma Folder
